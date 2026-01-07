@@ -495,7 +495,7 @@ If you use the **VeRi dataset**, please cite the following paper:
   booktitle={IEEE International Conference on Multimedia and Expo (ICME)},
   year={2016}
 }
-
+```
 
 ## 📧 Contact
 
