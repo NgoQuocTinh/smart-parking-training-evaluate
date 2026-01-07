@@ -462,9 +462,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 │   └── GFLOPS.ipynb                  # Model complexity analysis
 │
 └── README.md
-```
 
-## 🎓 Results
+## 🎓 Model Results
 
 ### 🚗 Detection Performance
 - **YOLOv11n**: Best balance between inference speed and detection accuracy  
@@ -497,7 +496,6 @@ If you use the **VeRi dataset**, please cite the following paper:
   year={2016}
 }
 
-```
 
 ## 📧 Contact
 
