@@ -464,32 +464,39 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 └── README.md
 ```
 
-## 🎓 Result
+## 🎓 Results
 
-### Detection Performance
-- **YOLOv11n**: Tốt nhất về cân bằng giữa tốc độ và độ chính xác
-- **Faster R-CNN**: Độ chính xác cao nhất nhưng chậm hơn
-- **DETR**: Kiến trúc transformer mới, kết quả ổn định
+### 🚗 Detection Performance
+- **YOLOv11n**: Best balance between inference speed and detection accuracy  
+- **Faster R-CNN**: Achieves the highest accuracy but with slower inference time  
+- **DETR**: Transformer-based architecture with stable and consistent results  
 
-### Vehicle Re-ID
-- **Triplet Loss**: Hiệu quả hơn Cross Entropy cho metric learning
-- **Embedding 256-dim**: Cân bằng giữa performance và computational cost
+---
 
-### License Plate Recognition
-- Nhận dạng tốt trên nhiều điều kiện ánh sáng
-- Xử lý được nhiều loại biển số Việt Nam
+### 🔁 Vehicle Re-Identification (Re-ID)
+- **Triplet Loss**: More effective than Cross Entropy for metric learning–based Re-ID tasks  
+- **256-Dimensional Embedding**: Good trade-off between representation quality and computational cost  
 
-## 📝 Trích Dẫn
+---
 
-Nếu sử dụng VeRi dataset, vui lòng trích dẫn:
+### 🔍 License Plate Recognition
+- Robust performance under varying lighting conditions  
+- Capable of recognizing multiple types of Vietnamese license plates  
+
+---
+
+## 📝 Citation
+
+If you use the **VeRi dataset**, please cite the following paper:
 
 ```bibtex
 @inproceedings{liu2016large,
   title={Large-scale vehicle re-identification in urban surveillance videos},
   author={Liu, Xinchen and Liu, Wu and Ma, Huadong and Fu, Huiyuan},
-  booktitle={IEEE International Conference on Multimedia and Expo},
+  booktitle={IEEE International Conference on Multimedia and Expo (ICME)},
   year={2016}
 }
+
 ```
 
 ## 📧 Contact
