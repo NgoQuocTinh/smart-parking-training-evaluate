@@ -484,19 +484,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📝 Citation
-
-If you use the **VeRi dataset**, please cite the following paper:
-
-```bibtex
-@inproceedings{liu2016large,
-  title={Large-scale vehicle re-identification in urban surveillance videos},
-  author={Liu, Xinchen and Liu, Wu and Ma, Huadong and Fu, Huiyuan},
-  booktitle={IEEE International Conference on Multimedia and Expo (ICME)},
-  year={2016}
-}
-```
-
 ## 📧 Contact
 
 - Repository: [NgoQuocTinh/smart-parking-training-evaluate](https://github.com/NgoQuocTinh/smart-parking-training-evaluate)
